@@ -16,7 +16,7 @@
  * => Worst case - O(2n) = O(n)
  *
  */
-public class SubarrayWithGivenSumRecursive
+public class SubarrayWithGivenSum
 {
 
 
